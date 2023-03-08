@@ -107,7 +107,7 @@ function About(props) {
                                 isLoading={props.leaderLoading}
                                 errMess={props.leaderErrMess}
                             />                              
-                    </Media>     
+                        </Media>     
                     </div>                    
                 </div>
             </div>
